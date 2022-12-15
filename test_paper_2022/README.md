@@ -2,15 +2,15 @@
 
 DOI for paper, author information
 
-## Main Code and data ##
+### Main Code and data ###
 
 Short explanation of the setup of the main code and data
 
-## Statistical analyses ##
+### Statistical analyses ###
 
 Information about statistical analysis (if applicable)
 
-## Scripts ##
+### Scripts ###
 
 Short explanation about each script used for the paper
 
